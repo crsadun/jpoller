@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.6.2
+Created-By: 1.4.2_05-b04 (Sun Microsystems Inc.)
+Main-Class: org.sadun.util.polling.Monitor
+Class-Path: ./lib/lf.jar ./lib/org.sadun.util.jar ./lib/clopt.jar
+
